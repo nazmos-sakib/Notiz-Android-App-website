@@ -31,6 +31,6 @@ exclude:
 google_play_url: ""
 apk_download_url: ""
 
-# Set these for the eventual GitHub Pages/custom-domain deployment.
-url: ""
-baseurl: ""
+# GitHub Pages project site. Source files are in the repository root.
+url: "https://nazmos-sakib.github.io"
+baseurl: "/Notiz-Android-App-website"
