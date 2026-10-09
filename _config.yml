@@ -1,0 +1,36 @@
+title: Notiz
+tagline: Private notes, on your terms.
+description: A little space for your everyday thoughts. Notes, lists, drawings, and voice recordings, together on Android.
+lang: en
+timezone: Europe/Berlin
+
+# GitHub Pages supports Minima without additional build configuration.
+theme: minima
+minima:
+  skin: auto
+
+header_pages:
+  - privacy-policy.md
+  - account-deletion.md
+
+permalink: pretty
+
+# Add the monitored privacy address used on the Google Play listing before launch.
+# Example: privacy_email: privacy@your-domain.example
+privacy_email: "s.nazmos.sakib@gmail.com"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - THIRD_PARTY_NOTICES.md
+  - vendor
+
+# Add verified public release URLs when downloads are available.
+google_play_url: ""
+apk_download_url: ""
+
+# Set these for the eventual GitHub Pages/custom-domain deployment.
+url: ""
+baseurl: ""

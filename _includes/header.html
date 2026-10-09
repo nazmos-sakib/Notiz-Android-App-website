@@ -1,0 +1,9 @@
+<header class="site-header" role="banner">
+  <div class="wrapper product-header">
+    <a class="site-title" rel="author" href="{{ '/' | relative_url }}">Notiz</a>
+    <nav class="product-nav" aria-label="Main navigation">
+      <a href="{{ '/privacy-policy/' | relative_url }}"{% if page.permalink == '/privacy-policy/' %} aria-current="page"{% endif %}>Privacy Policy</a>
+      <a href="{{ '/account-deletion/' | relative_url }}"{% if page.permalink == '/account-deletion/' %} aria-current="page"{% endif %}>Delete your account</a>
+    </nav>
+  </div>
+</header>
