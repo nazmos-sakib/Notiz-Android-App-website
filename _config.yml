@@ -29,7 +29,7 @@ exclude:
 
 # Add verified public release URLs when downloads are available.
 google_play_url: ""
-apk_download_url: "https://github.com/nazmos-sakib/Notiz-Android-App-website/releases/download/v1.1/Notiz.v1.1.apk"
+apk_download_url: "https://github.com/nazmos-sakib/Notiz-Android-App-website/releases/latest/download/Notiz.apk"
 
 # GitHub Pages project site. Source files are in the repository root.
 url: "https://nazmos-sakib.github.io"
